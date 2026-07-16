@@ -1,0 +1,14 @@
+{
+  "port": 3000,
+  "targetProject": "/Users/xumeiqiang/Desktop/OfficeProject/CIM_NEW",
+  "adminPassword": "admin123",
+  "verificationCommand": "npm run build",
+  "maxAutoRetries": 3,
+  "autoCommit": false,
+  "autoRollbackOnFailure": true,
+  "targetProjectUrl": "http://localhost:5173",
+  "jwtSecret": "bug-fix-platform-secret-key-12345",
+  "_comment": "dataDir 可选，默认使用项目目录下的 data/，如需自定义请取消注释",
+  "_dataDir1": "/Users/xumeiqiang/Desktop/大模型/bug-fix-platform/tmp-data",
+  "_dataDir": "/Users/xumeiqiang/Desktop/OfficeProject/CIM_NEW/tmp-data"
+}

@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "data/*",
+    "frontend/*",
+    "*.db",
+    "*.db-journal",
+    "*.db-wal"
+  ]
+}
